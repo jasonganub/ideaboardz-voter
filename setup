@@ -1,0 +1,3 @@
+virtualenv -p python3 ../virtualenv/ideaz
+source ../virtualenv/ideaz/bin/activate
+pip install -r requirements.txt
