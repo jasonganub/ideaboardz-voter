@@ -15,7 +15,7 @@ Python script to vote for cards automatically on threads using just the board ID
 
 2. Update the board ID
 
-`board_id = {board ID in the URL}```
+`board_id = {board ID in the URL}`
 
 3. Run the script
 
